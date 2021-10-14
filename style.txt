@@ -1,0 +1,1 @@
+ QPushButton { font-family: "Microsoft Uighur"; border-radius: 25px;  font-size: 34px;   background: #ff00ff; }

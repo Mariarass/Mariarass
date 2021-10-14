@@ -1,0 +1,28 @@
+color--цвет текста
+background-color--цвет фона
+border--рамка
+border-top--верхняя рамка
+border-left--левая рамка
+border-right--правая рамка
+border-bottom--нижняя рамка
+border-radius-- радиус
+border-top-left-radius--верхнее левое закругление
+border-top-right-radius--верхнее правое закругление
+border-bottom-left-radius--нижее левое закругление
+border-bottom-right-radius--нижнее правое закругление
+padding-top--внутренний верхний отступ
+padding-left--внутренний левый отступ
+padding-right--внутренний правый отступ
+paddin-bottom--внутренний нижний отступ
+image--изображение
+font--шрифт
+font-size--размер шрифта
+selection-background-color--цвет фона при выделении текста
+selection-color--цвет текста при выделении текста
+margint-top--внешний верхний отступ
+margint-left--внешний левый отступ
+margint-right--внешний правый отступ
+margint-bottom--внешний нижний отступ
+height--высота
+width--ширина
+outline--контур
